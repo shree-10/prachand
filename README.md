@@ -12,7 +12,7 @@ https://www.hackerrank.com/domains/java
 2. DSA     
 
     a. Tutorials  
-    https://youtu.be/WQoB2z67hvY  
+    https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
     https://www.geeksforgeeks.org/data-structures/?ref=shm   
 
     b. Practice  
