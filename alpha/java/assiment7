@@ -1,0 +1,11 @@
+importjava.util.*; 
+publicclassSolution{
+    publicstaticvoidmain(Stringargs[]) {
+        Scannersc=newScanner(System.in);
+        intA=sc.nextInt();
+        intB=sc.nextInt();
+        intC=sc.nextInt();
+        intaverage= (A+B+C) /3;
+        System.out.println("average is : "+average);
+    }
+}
